@@ -1,3 +1,5 @@
 # Chen's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+## Summary
+### This repository are the notes taken by [Chen](https://github.com/mrchenliang) @ Lighthouse Labs Web Development Bootcamp.
+* W1
+  * Day 1
